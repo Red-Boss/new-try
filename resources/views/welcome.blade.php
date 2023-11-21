@@ -74,7 +74,7 @@
             <div id="centered3" class="centered"><h3 style="color:white;"><span class="glyphicon glyphicon-envelope"></span>&nbsp&nbsp<strong>Join the Conversation.</strong></h3></div>
         </div>
         <div class="col-sm-5" style="left:8%:">
-            <h1 style="color: white;"> <img src="{{asset('frontend/images\logo_bubt.png')}}" alt="" width="200" height="200"></h1>
+            <h1 style="color: white;"> <img src="{{asset('frontend/images\logo.png')}}" alt="" width="200" height="200"></h1>
             {{-- <img src="images/bubt_logo.png" class="img-rounded" title="Coding cafe" width="400px" height="80px"> --}}
             <h2 style="color:white; font-family: Open Sans;" ><strong>See what's happening in <br> the world right now</strong></h2><br><br>
             <h4 style="color:white; font-family: Open Sans;"><strong>Join ARPANET Today.</strong></h4>
